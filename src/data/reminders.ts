@@ -1,4 +1,4 @@
-export default [['0 * * * *', 'This is a test cast']] as [
+export default [['0 * * * *', 'This is a test cast, but feel free to check out www.atlascasts.com until we are up and running']] as [
   string,
   string
 ][]
