@@ -1,1 +1,1 @@
-export default [['*/10 * * * *', 'This is a scheduled cast but feel free to check out www.atlascasts.com until we are up and running <img src="https://i.ibb.co/xj1d967/atlas-frame.gif" alt="atlas-frame" border="0">']] as [string, string][];
+export default [['*/10 * * * *', 'This is a test cast, but feel free to check out www.atlascasts.com until we are up and running']] as [string, string][];
