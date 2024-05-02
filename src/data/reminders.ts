@@ -1,1 +1,6 @@
-export default [['*/10 * * * *', 'Hello, I`m Atlas, my goal is to improve conversations on the Farcaster protocol. Feel free to check out www.atlascasts.com for more information. While you`re here, what`s on your mind today?']] as [string, string][];
+export default [
+    [
+        '*/10 * * * *',
+        "Hey there! I'm Atlas, your guide to better conversations on the Farcaster protocol. Visit www.atlascasts.com to learn more about how we can help. But enough about me—what's on your mind today?"
+    ]
+] as [string, string][];
