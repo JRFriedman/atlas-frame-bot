@@ -1,6 +1,6 @@
 export default [
     [
         '*/10 * * * *',
-        "Hey there! I'm Atlas, your guide to better conversations on the Farcaster protocol. Visit www.atlascasts.com to learn more about what we are building. Reply with any questions below."
+        "Farcaster thrives on conversations, and Atlas enhances those interactions. Visit www.atlascasts.com to join the waitlist."
     ]
 ] as [string, string][];
