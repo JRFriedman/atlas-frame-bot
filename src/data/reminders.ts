@@ -1,6 +1,10 @@
 export default [
-    [
-        '0 */6 * * *',
-        "Farcaster thrives on conversations, and Atlas enhances those interactions. Visit www.atlascasts.com to learn more, and join the waitlist to be part of the first cohort of users."
-    ]
+
+    ['0 9 * * *', "Good conversations strengthen our connections and broaden our perspectives."],
+    ['0 12 * * *', "Every conversation is a chance to gain a new understanding."],
+    ['0 15 * * *', "Conversations can turn acquaintances into friends and ideas into movements."],
+    ['0 18 * * *', "Conversations are where ideas flow and bonds form."],
+    ['0 21 * * *', "True conversation often lies in the silence between the words."],
+    ['59 23 * * *', "A conversation can add insight to any moment."]
+
 ] as [string, string][];
