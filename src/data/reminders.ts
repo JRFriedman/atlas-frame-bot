@@ -1,10 +1,9 @@
 export default [
 
-    ['0 9 * * *', "Conversations strengthen our connections and broaden our perspectives."],
-    ['0 12 * * *', "Every conversation is a chance to gain a new understanding."],
-    ['0 15 * * *', "Conversations can turn acquaintances into friends and ideas into movements."],
-    ['0 18 * * *', "Conversations are where ideas flow and bonds form."],
-    ['0 21 * * *', "True conversation often lies in the silence between words."],
-    ['59 23 * * *', "A conversation can add insight to any moment."]
+    ['0 9 * * *', "Every day begins with so much potential to explore and engage on Farcaster. Atlas is here to help you do both."],
+    ['0 13 * * *', "Whether you're here to read, or find the best conversations to jump into, Atlas is here to help."],
+    ['0 15 * * *', "On Farcaster, ideas quickly become movements. Atlas is here to keep you up to speed."],
+    ['0 18 * * *', "There's a lot happening on Farcaster. Atlas is here to help you find what matters most to you."],
+    ['0 21 * * *', "As the day winds down, Atlas is here to guide your Farcaster reflections."]
 
 ] as [string, string][];
